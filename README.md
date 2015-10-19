@@ -1,14 +1,21 @@
 # DevOps hackathon
 
 ## Team Members
+ 
+- [Kevin Gjerstad](mailto:kevingj) kevingjerstad at live.com 
+- [Patrick Heyde](mailto:pheyde) info at patrickheyde.de
+- [Nick Trogh](mailto:nicktrog)  ntrogh at hotmail.com
+- [Christian Geuer-Pollmann](mailto:chgeuer) chgeuer-fte at hotmail.com
 
-- [Kevin Gjerstad](mailto:kevingj) 
-- [Patrick Heyde](mailto:pheyde)
-- [Nick Trogh](mailto:nicktrog)
-- [Christian Geuer-Pollmann](mailto:chgeuer)
 
 Team Name: Tail Spin Doctors
 Mission:   Insights-driven Testing in Production
+
+## Azure Subscription 
+
+Subscription ID: ´dd7941ee-db86-4b37-9ada-5742484412d0´
+
+LID: msftdxte@outlook.com / pass ...
 
 ## Eval criteria
 
