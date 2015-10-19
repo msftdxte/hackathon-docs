@@ -7,9 +7,10 @@
 - [Nick Trogh](mailto:nicktrog)  ntrogh at hotmail.com
 - [Christian Geuer-Pollmann](mailto:chgeuer) chgeuer-fte at hotmail.com
 
-
-Team Name: Tail Spin Doctors
-Mission:   Insights-driven Testing in Production
+```
+	Team Name: Tail Spin Doctors
+	Mission:   Insights-driven Testing in Production
+```
 
 ## Azure Subscription 
 
@@ -45,10 +46,6 @@ http://blogs.msdn.com/b/mschray/archive/2015/07/16/azure-web-sites-a-b-testing-t
 
 Then we show off application insights telemetry data for each version
 We can then promote the change to #allversions  
-
-
-
-
 
 
 
