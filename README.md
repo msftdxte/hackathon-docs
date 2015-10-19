@@ -2,10 +2,10 @@
 
 ## Team Members
 
-- Kevin Gjerstad 
-- Patrick Heyde
-- Nick Trogh
-- Christian Geuer-Pollmann
+- [Kevin Gjerstad](mailto:kevingj)  
+- [Patrick Heyde](mailto:pheyde)
+- [Nick Trogh](mailto:nicktrog)
+- [Christian Geuer-Pollmann](mailto:chgeuer)
 
 ## Tooling
 
