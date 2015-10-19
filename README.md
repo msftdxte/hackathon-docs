@@ -2,7 +2,7 @@
 
 ## Team Members
 
-- [Kevin Gjerstad](mailto:kevingj)  
+- [Kevin Gjerstad](mailto:kevingj) 
 - [Patrick Heyde](mailto:pheyde)
 - [Nick Trogh](mailto:nicktrog)
 - [Christian Geuer-Pollmann](mailto:chgeuer)
