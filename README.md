@@ -14,8 +14,11 @@
 - Visual Studio Online: https://msftdxte.visualstudio.com/
 	- https://msftdxte.visualstudio.com/DefaultCollection/DevOps%20Hackathon
 		- currently internal GIT: https://msftdxte.visualstudio.com/DefaultCollection/_git/DevOps%20Hackathon
+	- Slack Triggers: https://msftdxte.visualstudio.com/DefaultCollection/DevOps%20Hackathon/_admin/_servicehooks
 
-## OIverall plan
+
+
+## Overall plan
 
 dea for hackathon (just an idea): 
 use feature flags to create version A & B of this sample app (can use same or different build agents)
