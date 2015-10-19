@@ -7,6 +7,8 @@
 - [Nick Trogh](mailto:nicktrog)
 - [Christian Geuer-Pollmann](mailto:chgeuer)
 
+Team Name: Tail Spin Doctors
+Mission:   Insights-driven Testing in Production
 
 ## Eval criteria
 
@@ -22,8 +24,6 @@
 	- https://msftdxte.visualstudio.com/DefaultCollection/DevOps%20Hackathon
 		- currently internal GIT: https://msftdxte.visualstudio.com/DefaultCollection/_git/DevOps%20Hackathon
 	- Slack Triggers: https://msftdxte.visualstudio.com/DefaultCollection/DevOps%20Hackathon/_admin/_servicehooks
-
-
 
 ## Overall plan
 
