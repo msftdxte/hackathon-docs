@@ -9,7 +9,8 @@
 
 ## Tooling
 
-- Slack chat room. https://msftdxte.slack.com/messages/general/
+- Slack chat room: https://msftdxte.slack.com/messages/general/	
+- TBD: msftdxte.visualstudio.com
 
 
 ## OIverall plan
