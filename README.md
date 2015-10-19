@@ -9,9 +9,11 @@
 
 ## Tooling
 
+- Application code: https://github.com/msftdxte/PartsUnlimited/
 - Slack chat room: https://msftdxte.slack.com/messages/general/	
-- TBD: msftdxte.visualstudio.com
-
+- Visual Studio Online: https://msftdxte.visualstudio.com/
+	- https://msftdxte.visualstudio.com/DefaultCollection/DevOps%20Hackathon
+		- currently internal GIT: https://msftdxte.visualstudio.com/DefaultCollection/_git/DevOps%20Hackathon
 
 ## OIverall plan
 
@@ -38,3 +40,5 @@ We can then promote the change to #allversions
 - The VSO build & Deploy tasks: https://github.com/Microsoft/vso-agent-tasks
 - http://blogs.msdn.com/b/visualstudioalmrangers/archive/2015/09/16/version-control-guidance-alternative-branching-strategies.aspx
 
+
+- [Using market place images in ARM templates](https://github.com/chgeuer/polopoly-on-azure/blob/master/ARM/polopoly-on-azure/Templates/LinuxVirtualMachine.json#L376)
