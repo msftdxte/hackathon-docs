@@ -7,6 +7,13 @@
 - [Nick Trogh](mailto:nicktrog)
 - [Christian Geuer-Pollmann](mailto:chgeuer)
 
+
+## Eval criteria
+
+	1 Creativity / Geekyness
+	2 3rd party / public re-usability
+	3 Which DevOps practices were reused
+
 ## Tooling
 
 - Application code: https://github.com/msftdxte/PartsUnlimited/
