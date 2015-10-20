@@ -6,8 +6,8 @@
 		- Kanban Board
 	- Slack integrated w/ github & VSO
 	- Azure
-- Planning
-- Adapted app to push metrics to Appliction Insights
+- Team Planning
+- Built E-Commerce App to push metrics to Appliction Insights
 - Build Definitions
 	- CI
 	- Unit Tests
@@ -16,6 +16,22 @@
 - Continuious Deployment from VSO to Azure Web Sites
 - PowerBI for reporting on development velocity (VSO metrics)
 - Azure Automation for monitoring and scaling SQL Azure DBs
+
+
+## http://aka.ms/devopsmaster
+
+Submission Title: Tail Spin Doctors
+Event Title: DX Next DevOps Hackathon, Redmond
+Event Dates: 10/19/2015-10/20/2015
+Team Name: Tail Spin Doctors
+Github Link: https://github.com/msftdxte
+Upload Zip: none
+
+Description: We modeled ourselves after an e-commerce startup, focussing on the lean startup methodology and a minimum viable product (MVP), leveraging 3rd party services like an own github organization, or team comms via slack, and testing in production. We deployed multiple experiments / variants of our application for A/B testing across different web deployments, using Infrastructure-as-code (Azure Resource Manager) for automated infrastructure setup, continuous deployments from VSO to the slots. 
+
+To shape the customer traffic in given percentages between our A and B deployments to run experiments, we explored both the use of Azure Traffic Manager, as well as Azure Web App Routing Rules. Traffic Manager for distributing across different sites, Routing Rules for distributing traffic across deployment slots in a single Web App. 
+
+
 
 
 ## Team Members
