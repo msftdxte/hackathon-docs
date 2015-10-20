@@ -20,12 +20,14 @@
 
 ## http://aka.ms/devopsmaster
 
+```
 Submission Title: Tail Spin Doctors
 Event Title: DX Next DevOps Hackathon, Redmond
 Event Dates: 10/19/2015-10/20/2015
 Team Name: Tail Spin Doctors
 Github Link: https://github.com/msftdxte
 Upload Zip: none
+```
 
 Description: We modeled ourselves after an e-commerce startup, focussing on the lean startup methodology and a minimum viable product (MVP), leveraging 3rd party services like an own github organization, or team comms via slack, and testing in production. We deployed multiple experiments / variants of our application for A/B testing across different web deployments, using Infrastructure-as-code (Azure Resource Manager) for automated infrastructure setup, continuous deployments from VSO to the slots. 
 
